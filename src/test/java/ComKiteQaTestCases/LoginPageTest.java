@@ -31,6 +31,7 @@ public class LoginPageTest extends TestBase {
 		
 		loginpage = new LoginPage();
 		log.info("Loginpage object");
+		System.out.println("hello");
 	}
 	
 	 @Test(priority=2)
